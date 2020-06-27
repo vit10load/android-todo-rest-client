@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exemplo-rest</string>
+    <string name="tarefa">Tarefa</string>
+    <string name="prioridade">Prioridade</string>
+</resources>
